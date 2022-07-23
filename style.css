@@ -8,7 +8,6 @@ h2 {
 
 h3 {
     color: crimson;
-    background-color: aquamarine;
 }
 
 p {
@@ -31,4 +30,25 @@ h5 {
 .li-2 {
     color: indigo;
     font-size: 30px;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
+
+.Aboutme-1 {
+    background-color: bisque;
+}
+
+.Aboutp-1 {
+    font-size: 30px;
+}
+
+.Aboutul-1 {
+    font-size: 30px;
+}
+
+.Author-1 {
+    font-size: 20px;
 }
